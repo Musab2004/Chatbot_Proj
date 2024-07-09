@@ -20,8 +20,8 @@ To run the chatbot locally, follow these steps:
 1. Clone the repository and navigate to the project directory.
 
 ```bash
-  git clone https://github.com/your_username/chatbot-project.git
-  cd chatbot-project
+  git clone git@github.com:Musab2004/Chatbot_Proj.git
+  cd Chatbot-Project
   pip install -r requirements.txt
   streamlit run app.py
 ```
